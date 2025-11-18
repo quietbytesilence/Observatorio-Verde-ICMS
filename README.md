@@ -53,13 +53,23 @@ Este sistema serve como ferramenta essencial para:
 - **Pesquisadores**: Estudar relações entre economia e meio ambiente
 - **Sociedade Civil**: Monitorar transparência na aplicação de recursos
 - **Tomadores de Decisão**: Fundamentar políticas baseadas em evidências
-![tela1.png](https://github.com/quietbytesilence/Observatorio-Verde-ICMS/blob/main/tela1.png)
 
-<img src="https://github.com/quietbytesilence/Observatorio-Verde-ICMS/blob/main/tela1.png" alt="tela1.png" />
+
+<img width="1919" height="924" alt="tela1" src="https://github.com/user-attachments/assets/50608221-4463-49d4-b039-6fc00af21e50" />
+
 
 
 ## Conclusão
 
 O Sistema de Monitoramento ICMS Verde Pará representa um avanço significativo na transparência de dados ambientais e fiscais, oferecendo uma plataforma robusta para compreender as complexas interações entre desenvolvimento econômico e preservação ambiental na Amazônia paraense.
+
+<img width="1709" height="847" alt="tela2" src="https://github.com/user-attachments/assets/2921a813-9081-4b9e-9e56-93e15e442345" />
+<img width="1914" height="923" alt="tela3" src="https://github.com/user-attachments/assets/07eb0da6-46f0-4568-8fca-3e57c676e91a" />
+<img width="1646" height="767" alt="tela4" src="https://github.com/user-attachments/assets/6fd132c1-a4f5-4bc0-a998-cc0698864b9a" />
+<img width="1780" height="923" alt="tela5" src="https://github.com/user-attachments/assets/aba17107-0626-4796-a802-41372896cff4" />
+<img width="1492" height="914" alt="tela6" src="https://github.com/user-attachments/assets/edaee2a7-0180-4bc4-a6bd-c9750d382d95" />
+<img width="1541" height="883" alt="tela7" src="https://github.com/user-attachments/assets/1184212c-7de0-4bae-9666-af773da7c7ae" />
+<img width="1920" height="1080" alt="tela8" src="https://github.com/user-attachments/assets/f8d4522f-f6f2-44af-9d11-aa28d1fa9b3e" />
+
 
 ---
