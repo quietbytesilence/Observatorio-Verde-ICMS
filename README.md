@@ -53,6 +53,10 @@ Este sistema serve como ferramenta essencial para:
 - **Pesquisadores**: Estudar relações entre economia e meio ambiente
 - **Sociedade Civil**: Monitorar transparência na aplicação de recursos
 - **Tomadores de Decisão**: Fundamentar políticas baseadas em evidências
+![tela1.png](https://github.com/quietbytesilence/Observatorio-Verde-ICMS/blob/main/tela1.png)
+
+<img src="https://github.com/quietbytesilence/Observatorio-Verde-ICMS/blob/main/tela1.png" alt="tela1.png" />
+
 
 ## Conclusão
 
